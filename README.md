@@ -29,6 +29,8 @@
 
 * Algorithm
 	- Codeup 
+	- BoJ
+	- SWEA
 
 * Greedy, Search, Dynamic Programming
 	- BOJ 
